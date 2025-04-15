@@ -2,7 +2,7 @@
 - 👀 I’m interested in low-level programming and optimizing for speed.
 - 🌱 I’m currently learning to develop an OS kernel.
 - 💞️ I’m looking to collaborate on VCXProjWriter - an utility to create well-indexed Visual Studio projects for GNU/Linux.
-- 📫 How to reach me:
+- 📫 How to reach me: alexey.s at ultibot dot ru
 
 <!---
 Str1ker17/Str1ker17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
